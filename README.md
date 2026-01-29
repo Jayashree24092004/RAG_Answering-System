@@ -197,7 +197,7 @@ project-root/
 ### 1. Clone repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Jayashree24092004/RAG_Answering-System/tree/main
 cd project
 ```
 
