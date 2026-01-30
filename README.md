@@ -268,23 +268,3 @@ http://localhost:8501
 
 ---
 
-## Interview Summary
-
-> This project implements a retrieval‑augmented question answering system where documents are chunked, embedded using Cohere, stored in Pinecone, and retrieved via vector similarity search. The retrieved chunks are reranked and locally synthesized into a final answer. The system focuses on free, scalable components and modular design, making it easy to extend with FastAPI and LLM‑based generation later.
-
----
-
-## One‑Line Description
-
-A free, document‑grounded question answering system using semantic search and vector databases.
-
----
-
-If you want, I can also provide:
-
-* FastAPI version
-* Architecture diagram image (draw.io)
-* Background job design
-* Rate limiting code
-* Resume bullet points
-* Deployment guide
