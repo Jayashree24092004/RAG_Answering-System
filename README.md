@@ -19,7 +19,7 @@ A complete **Retrieval‑Augmented Generation (RAG)** system that allows users t
 * [Usage](#usage)
 * [Limitations](#limitations)
 * [Future Improvements](#future-improvements)
-* [Interview Summary](#interview-summary)
+
 
 ---
 
